@@ -11,7 +11,7 @@
 
 4) Run the bot | node . | node index.js
 
-5) Create a channel called [Your bot channel name in index.js or the default, "sync-codes"]
+5) Create a channel called [Your bot channel name in index.js or the default, "open-studios"]
 
 **Packages**
 
@@ -19,8 +19,4 @@
 
 2) Discord.js
 
-**Info**
-
-Made by RajEffect#3932 (Founder Of Sync Codes [https://discord.gg/UUmMY6tppe])
-
-Licensed in 2020 by Sync Codes
+Licensed in 2021 by Open Studios
